@@ -1,0 +1,13 @@
+1- Ler a primeira nota( mandar mensagem p/ usuario e ler o que o usuario digitar);
+2- Ler a segunda nota;
+3- Calcular a  média das notas;
+4- Mostrar a média calculada;
+5- Digite o total de aulas;
+6- Digite o n° de faltas do aulas;
+7- Calcular a % de frequência;
+8- Mostrar a % de frequência;
+9- Se (média for>=50 e frequência>=75%){
+     Então Aluno Aluno Aprovado
+     }senão{
+      Então aluno REprovado
+     }
