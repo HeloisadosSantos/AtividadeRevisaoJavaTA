@@ -11,3 +11,6 @@
      }senão{
       Então aluno REprovado
      }
+
+     Media<50
+     Frequencia>=75 recuperação
